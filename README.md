@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on many different things :-D
-- 🌱 I blog about coding at [https://ml-software.ch](https://ml-software.ch)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a paragliding instructor and tandem pilot
 
